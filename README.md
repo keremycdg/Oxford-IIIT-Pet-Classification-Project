@@ -1,4 +1,4 @@
-# Oxford-IIIT-Pet-Classification-Project
+# Oxford-IIIT Pet Classification Project
 
 ## Project Overview
 
@@ -26,6 +26,7 @@ The Oxford-IIIT Pet Dataset consists of images of 37 breeds of cats and dogs, wi
 - `preprocess.py`: Script for preprocessing the dataset.
 - `train.py`: Script for training the models.
 - `evaluate.py`: Script for evaluating the models and visualizing results.
+- `fine_tuning.py`: Script for fine-tuning the models.
 - `requirements.txt`: List of dependencies.
 - `README.md`: Project overview and instructions.
 
@@ -35,3 +36,4 @@ Run the preprocessing script to resize and normalize the images:
 
 ```sh
 python preprocess.py
+
