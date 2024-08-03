@@ -31,11 +31,10 @@ The Oxford-IIIT Pet Dataset consists of images of 37 breeds of cats and dogs, wi
 - `fine_tuning.py`: Script for fine-tuning the models.
 - `requirements.txt`: List of dependencies.
 - `README.md`: Project overview and instructions.
+- `Full_Project.ipynb`: Notebook file that contains the codebase step-by-step.
 
 ## Preprocessing
 
 Run the preprocessing script to resize and normalize the images:
 
 python preprocess.py
-
-![project1](https://github.com/user-attachments/assets/c5a1fa46-8b21-4d2c-85cd-c13110f0c825)
