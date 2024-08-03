@@ -1,5 +1,4 @@
 # Oxford-IIIT-Pet-Classification-Project
-# Oxford-IIIT Pet Classification Project
 
 ## Project Overview
 
