@@ -15,7 +15,6 @@ The Oxford-IIIT Pet Dataset consists of images of 37 breeds of cats and dogs, wi
 1. Clone the repository:
 
     git clone https://github.com/keremycdg/Oxford-IIIT-Pet-Classification-Project.git
-    cd Oxford-IIIT-Pet-Classification-Project
 
 
 2. Install the required packages:
