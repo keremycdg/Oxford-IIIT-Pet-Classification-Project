@@ -1,5 +1,7 @@
 # Oxford-IIIT Pet Classification Project
 
+![project](https://github.com/user-attachments/assets/64487b6b-3054-42a1-824e-61c1b4e3ef11)
+
 ## Project Overview
 
 This project aims to classify images from the Oxford-IIIT Pet Dataset using pre-trained models, MobileNetV2 and NASNetMobile. The goal is to demonstrate the effectiveness of transfer learning in image classification tasks.
@@ -35,6 +37,3 @@ The Oxford-IIIT Pet Dataset consists of images of 37 breeds of cats and dogs, wi
 Run the preprocessing script to resize and normalize the images:
 
 python preprocess.py
-
-![project](https://github.com/user-attachments/assets/64487b6b-3054-42a1-824e-61c1b4e3ef11)
-
